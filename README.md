@@ -21,6 +21,7 @@ output image
 ![Screenshot 2024-06-25 121435](https://github.com/new-devloper/url-scraping/assets/159413492/10245c09-02e3-45ae-955b-0b73b7faaf23)
 
 [] Enter the your url
+
 [] Enter the range 
 
 image with output
